@@ -4,3 +4,4 @@ dockerfile
 .git
 .dockerignore
 .gitignore
+docker-compose.yml
